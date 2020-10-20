@@ -1,0 +1,48 @@
+cargo:Estagiário (Blooge)
+trabalhando:1Analisando o sistema...2Fazendo relatório...3Verificando o banco de dados...4Dando suporte aos usuários...
+pergunta:Durante o happy hour da empresa, eu e meu chefe ficamos super bêbados e amigos, no dia seguinte, como chama-lo no trabalho?
+r:Chefe./Brotheer!
+frases:Nada mudou./Chefe: O que? Ficou maluco?!
+boost:0/-5 de exp
+pergunta:Meu chefe pediu para falar pro Diretor que ele já chegou, devo mentir?
+r:A sim Diretor, ele está no banheiro./Na verdade senhor, ele não chegou ainda...
+frases:Chefe: Obrigado por me dar essa força ;)/Chefe: Está louco de falar essas coisas!!! Seu...
+boost:10 de dinheiro/-15 de exp
+
+cargo:Contratado (Blooge)
+trabalhando:1Fazendo manutenção...2Verificando as redes dos serviços...3Desenvolvendo um software...
+pergunta:Tem uma nova estagiária na empresa, ela sempre passa pela minha mesa e me olha fixamente, será que devo ir falar com ela?
+r:Oiie, você é muito bonita../Acho melhor não, ela deve ter namorado...
+frases:Gerente: O QUE ESTA FAZENDO??? (É a filha dele)/Você: Bom, na proxima vez vou mostrar quem sou de verdade para a dama!
+boost:-10 de exp/0
+
+cargo:Auxiliar Geral (Blooge)
+trabalhando:1Auxiliando na gestão...2Fazendo as tabelas...
+
+cargo:Programador (Blooge)
+trabalhando:1Programando em Python...2Programando em MySQL...3Programando em Java...4Programando em HTML kk...
+
+cargo:Coordenador de Programação (Blooge)
+trabalhando:1Repassando projeto de programa...2Auxiliando no banco de dados...3Coordenando as equipes...
+pergunta:Um programador está dormindo, ele fez hora extra e tudo...Será que devo acorda-lo?
+r:DORMINDO NA HORA DO EXPEDIENTE!/Bom, acho melhor deixar ele descansar um pouco.
+frases:Programador: Desculpa chefe... :(/Chefe: Não está vendo que ele está dormindo?!
+boost:-5 de vida/-15 de exp
+
+cargo:Coordenador-Geral (Blooge)
+trabalhando:1Mostrando projeto aos superiores...2Verificando a produtividade das equipes...3Programando uma linha...
+
+cargo:Vice-Gerente (Blooge)
+trabalhando:1Juntando dados mensais...2Decidindo a demissão de um funcionário...3Auxiliando em contratações...
+
+cargo:Gerente (Blooge)
+trabalhando:1Verificando ganhos da empresa...2Indo a um evento de tecnologia...3Comprando novos pacotes de programas...
+
+cargo:Diretor (Blooge)
+trabalhando:1Indo na empresa porque deu na telha...2Assistindo apresentação sobre o futuro da empresa...3Demitindo alguem...
+
+cargo:Vice-Presidente (Blooge)
+trabalhando:1Esperando os milhões cairem na conta...2Pensando entre Dubai ou Cancún...3Organizando o happy hour...
+
+cargo:Presidente (Blooge)
+trabalhando:1Caraca, não sabia que tinhamos essa filial...2Organizando uma reunião com os sócios...3Agora sim, vou descansar e só mandar no povo...

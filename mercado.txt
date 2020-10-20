@@ -1,0 +1,9 @@
+comida:hamburguer4
+comida:batata3
+comida:macarrão7
+comida:churrasco8
+bebida:água4
+bebida:café5
+bebida:refrigerante5
+bebida:energético8
+bebida:suco3

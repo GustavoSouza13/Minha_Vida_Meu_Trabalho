@@ -1,0 +1,44 @@
+cargo:Estagiário (Blooge)
+trabalhandodinheiro:4
+trabalhandoexp:3
+expup:0
+cargo:Contratado (Blooge)
+trabalhandodinheiro:5
+trabalhandoexp:4
+expup:40
+cargo:Auxiliar Geral (Blooge)
+trabalhandodinheiro:7
+trabalhandoexp:6
+expup:150
+cargo:Programador (Blooge)
+trabalhandodinheiro:10
+trabalhandoexp:8
+expup:300
+cargo:Coordenador de Programação (Blooge)
+trabalhandodinheiro:12
+trabalhandoexp:9
+expup:600
+cargo:Coordenador-Geral (Blooge)
+trabalhandodinheiro:13
+trabalhandoexp:10
+expup:1000
+cargo:Vice-Gerente (Blooge)
+trabalhandodinheiro:16
+trabalhandoexp:15
+expup:2000
+cargo:Gerente (Blooge)
+trabalhandodinheiro:18
+trabalhandoexp:16
+expup:5000
+cargo:Administrador (Blooge)
+trabalhandodinheiro:22
+trabalhandoexp:20
+expup:10000
+cargo:Vice-Presidente (Blooge)
+trabalhandodinheiro:26
+trabalhandoexp:24
+expup:25000
+cargo:Presidente (Blooge)
+trabalhandodinheiro:30
+trabalhandoexp:29
+expup:50000

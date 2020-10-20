@@ -1,0 +1,12 @@
+dinheiro ganho trabalhando +1 (Ø/V)
+preco:100
+exp ganha trabalhando +1 (Ø/V)
+preco:101
+limite de vida +50 (Ø/V)
+preco:200
+limite de fome +50 (Ø/V)
+preco:201
+limite de sede +50 (Ø/V)
+preco:202
+trabalhar +1 vez (Ø/V)
+preco:50

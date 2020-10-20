@@ -1,0 +1,13 @@
+opcoes:1 - Trabalhar2 - Ir ao mercado3 - Ver meu bolso4 - Ir pra casa5 - Loja de Upgrades
+vida:100
+fome:100
+sede:100
+dinheiro:10
+exp:0
+limitevida:100
+limitefome:100
+limitesede:100
+trabalhandovez:4
+trabalhandodinheiro:4
+trabalhandoexp:3
+cargo:Estagiário (Blooge)
