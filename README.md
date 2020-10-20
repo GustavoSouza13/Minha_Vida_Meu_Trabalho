@@ -1,4 +1,4 @@
-# Minha_Vida_Meu_Trabalho
+# Minha Vida Meu Trabalho
 
 É um jogo inspirado no **Don't get fired! (Não seja demitido!).**
 
